@@ -1,0 +1,32 @@
+[
+    {
+        "level": "1",
+        "id": "1",
+        "name": "Vlad",
+        "hash": 789456123
+    },
+    {
+        "level": "1",
+        "id": "2",
+        "name": "Vladimir",
+        "hash": 789456120
+    },
+    {
+        "level": "2",
+        "id": "3",
+        "name": "Nata",
+        "hash": 789456121
+    },
+    {
+        "level": "2",
+        "id": "4",
+        "name": "Vika",
+        "hash": 789456122
+    },
+    {
+        "level": "3",
+        "id": "5",
+        "name": "Roman",
+        "hash": 789456124
+    }
+]

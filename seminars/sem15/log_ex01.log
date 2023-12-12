@@ -1,0 +1,1 @@
+ERROR:root:unsupported operand type(s) for +: 'int' and 'str', ('sdf', 2), {}

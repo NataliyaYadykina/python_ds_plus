@@ -1,0 +1,22 @@
+[
+    {
+        "access_level": "1",
+        "name": "Ната",
+        "id": "1"
+    },
+    {
+        "access_level": "1",
+        "name": "Вова",
+        "id": "2"
+    },
+    {
+        "access_level": "2",
+        "name": "Вика",
+        "id": "3"
+    },
+    {
+        "access_level": "2",
+        "name": "Рома",
+        "id": "4"
+    }
+]
